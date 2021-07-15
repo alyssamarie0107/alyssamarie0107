@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Alyssa Rodriguez!
-- 👀 I’m interested in front end development for web and mobile appliations
+- 👩🏻‍💻 Pronouns: she/her/hers
+- 🎓 Recent CS graduate from UC Davis
+- 🏳️‍🌈 Proudly identify as part of the LGBTQIA+ community
+- 👀 I’m interested in front end development for web and mobile applications
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me: amrrodriguez@ucdavis.edu
 
