@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alyssa Rodriguez!
 - 👩🏻‍💻 Pronouns: she/her/hers
-- 🎓 Recent CS graduate from UC Davis
+- 🎓 CS graduate from UC Davis
 - 🏳️‍🌈 Proudly identify as part of the LGBTQIA+ community
 - 👀 I’m interested in front end development for web and mobile applications
 - 🌱 I’m currently learning JavaScript
