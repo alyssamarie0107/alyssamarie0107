@@ -1,6 +1,6 @@
 ## About Me <img src="https://user-images.githubusercontent.com/82110564/189553856-2e7f8f30-80b4-484f-bfaa-9e5eb10f24e5.gif" width="30">
 
-Experienced software engineer focusing in frontend development, with a passion for building web applications that provide exceptional digital experiences. I strive to write clean, scalable, and efficient code that outputs pixel-perfect, interactive, and responsive results to the web.
+Experienced software engineer focusing in frontend development, with a passion for building web applications that provide exceptional digital experiences. I take pride in writing clean, scalable, and efficient code that outputs pixel-perfect, interactive, and responsive results to the web.
 
 Throughout my career, I have developed a deep understanding of frontend technologies, frameworks, and design principles, which has allowed me to create innovative and user-friendly web applications. I am constantly looking for ways to improve my skills and stay up-to-date with the latest trends and advancements in the industry.
 
