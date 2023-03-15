@@ -6,11 +6,11 @@
 
 <!-- about -->
 <h3 align="left">About Me:</h3>
-Experienced software engineer focusing in frontend development, with a passion for building web applications that provide exceptional digital experiences. I take pride in writing clean, scalable, and efficient code that outputs pixel-perfect, interactive, and responsive results to the web.
+<p>Experienced software engineer focusing in frontend development, with a passion for building web applications that provide exceptional digital experiences. I take pride in writing clean, scalable, and efficient code that outputs pixel-perfect, interactive, and responsive results to the web.</p>
 
-Throughout my career, I have developed a deep understanding of frontend technologies, frameworks, and design principles, which has allowed me to create innovative and user-friendly web applications. I am constantly looking for ways to improve my skills and stay up-to-date with the latest trends and advancements in the industry.
+<p>Throughout my career, I have developed a deep understanding of frontend technologies, frameworks, and design principles, which has allowed me to create innovative and user-friendly web applications. I am constantly looking for ways to improve my skills and stay up-to-date with the latest trends and advancements in the industry.</p>
 
-Currently, I am actively seeking new software engineering opportunities where I can apply my skills and expertise to build cutting-edge web applications that meet the needs of modern businesses and consumers. If you're looking for a talented and dedicated frontend developer, please feel free to reach out to me!
+<p>Currently, I am actively seeking new software engineering opportunities where I can apply my skills and expertise to build cutting-edge web applications that meet the needs of modern businesses and consumers. If you're looking for a talented and dedicated frontend developer, please feel free to reach out to me!</p>
 
 <!-- skills -->
 <h3 align="left">Technical Skills:</h3>
