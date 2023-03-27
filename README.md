@@ -10,17 +10,19 @@
 
 <!-- skills -->
 <h3 align="left">Technical Skills:</h3>
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+  <img src="https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
-<!-- connect -->
-<h3 align="left">Connect:</h3>
-<a href="https://www.linkedin.com/in/alyssamarie0107/" rel="nofollow">
-    <img alt="Alyssa Rodriguez's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg"                    style="max-width: 100%;">
-</a>
+
+<br/>
+
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alyssamarie0107&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide_progress=true">
+</p>
